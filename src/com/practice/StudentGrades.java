@@ -39,7 +39,7 @@ public class StudentGrades {
 			{
 				System.out.println("Fail");
 			}
-			System.out.println("Enter 0 to exit");
+			System.out.println("Enter 0 to exit; or Marks between 1-100 to continue");
 		}
 		
 	}
